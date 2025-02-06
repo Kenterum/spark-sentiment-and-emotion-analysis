@@ -130,5 +130,3 @@ spark-sentiment-and-emotion-analysis/
    - Merging sentiment and emotion logic occasionally produced edge cases, such as `(positive == negative) → neutral`. Some reviews legitimately contain multiple contrasting words. Ensuring such logic doesn’t oversimplify complex user feedback was a key concern.
 
 ---
-
-> **Tip**: Adjust any references to your actual package names, build steps, or environment. This is just a template—feel free to expand on performance metrics, usage examples, or data instructions as needed.
